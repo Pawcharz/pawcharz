@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-## About Me
-
 I'm an AI enthusiast with a strong background in machine learning, deep learning, and reinforcement learning
 
 ## 🌱 I’m currently learning:
