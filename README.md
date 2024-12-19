@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**Pawcharz/pawcharz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm an AI enthusiast with a strong background in machine learning, deep learning, and reinforcement learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning:
+- reinforcement learning algorithms
+- advanced pytorch
+
+## 🔭 I’m currently working on
+
+- **[Knee Osteoarthritis](https://github.com/Pawcharz/knee-osteoarthritis)**: Classification of knee osteoarthritis based on X-Ray images with use of deep neural networks and possibly transfer learning. (Built with PyTorch, Torchvision, OpenCv, Optuna framework).
+- **Interactive Delivery Bot**: Reinforcement learning-based project where an agent learns to move blocks from their original position to warehouse depending on the input of the user. (Built with Unity and PyTorch).
+    
+    This project is supposed to be my engineering thesis → thus no repository
+    
+
+## Skills
+
+- Programming Languages:
+  - Python (PyTorch, Keras),
+  - Javascript (Ts, React and Node.js technologies)
+  - C# (.NET)
+  - C/C++
+- ML Libraries/Frameworks: TensorFlow, PyTorch, Keras, OpenAI Gym
+- Areas of Expertise: Deep Learning, Reinforcement Learning, Computer Vision, (a bit of) NLP
+
+## 📫 How to contact me:
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/pawel-blicharz-dev/) or email me at pawel.blicharz.dev@gmail.com
