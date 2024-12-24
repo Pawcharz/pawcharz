@@ -2,13 +2,8 @@
 
 I'm an AI enthusiast with a strong background in machine learning, deep learning, and reinforcement learning
 
-## 🌱 I’m currently learning:
-- reinforcement learning algorithms
-- advanced pytorch
-
 ## 🔭 I’m currently working on
 
-- **[Knee Osteoarthritis](https://github.com/Pawcharz/knee-osteoarthritis)**: Classification of knee osteoarthritis based on X-Ray images with use of deep neural networks and possibly transfer learning. (Built with PyTorch, Torchvision, OpenCv, Optuna framework).
 - **Interactive Delivery Bot**: Reinforcement learning-based project where an agent learns to move blocks from their original position to warehouse depending on the input of the user. (Built with Unity and PyTorch).
     
     This project is supposed to be my engineering thesis → thus no repository
