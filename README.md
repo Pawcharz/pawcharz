@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-I'm an **AI Engineer** passionate about building intelligent systems with **machine learning**. I'm a fan of deep learning, reinforcement learning, and multimodal AI systems.
-I work as an AI Engineer at **TeaCode.io** and I lead projects at **Gradient PG**, where I focus on computer vision, NLP, Reinforcement Learning.
+- I'm an **AI Engineer** passionate about building intelligent systems with machine learning.
+- I'm a fan of **deep learning**, **reinforcement learning**, and **multimodal** AI systems.
+- I work as an AI Engineer at **TeaCode.io** and I lead projects at **Gradient PG**, where I focus on computer vision, NLP, Reinforcement Learning.
 
 ## 🔭 I’m currently working on
 
