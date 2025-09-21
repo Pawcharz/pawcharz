@@ -12,9 +12,9 @@
 
 ## ⚡ Skills
 
-* **Programming**: Python (PyTorch, TensorFlow, Keras), JavaScript/TypeScript (React, Node.js), C# (.NET/Unity), C/C++
+* **Programming**: Python (PyTorch, TensorFlow, Keras), JavaScript/TypeScript (React, React Native, Node.js), C# (.NET/Unity), C/C++
 * **AI/ML**: Deep Learning, Computer Vision, Natural Language Processing, Reinforcement Learning, LLMs
-* **Other**: Data pipelines, distributed systems (Spark, Hadoop), full-stack AI apps, GIS/Cesium simulations
+* **Other**: Data pipelines, web & mobile development, full-stack AI apps
 
 ## 📫 How to contact me
 
