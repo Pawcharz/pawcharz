@@ -1,24 +1,21 @@
 ## Hi there 👋
 
-I'm an AI enthusiast with a strong background in machine learning, deep learning, and reinforcement learning
+I'm an **AI Engineer** passionate about building intelligent systems with **machine learning**. I'm a fan of deep learning, reinforcement learning, and multimodal AI systems.
+I work as an AI Engineer at **TeaCode.io** and I lead projects at **Gradient PG**, where I focus on computer vision, NLP, Reinforcement Learning.
 
 ## 🔭 I’m currently working on
 
-- **Interactive Delivery Bot**: Reinforcement learning-based project where an agent learns to move blocks from their original position to warehouse depending on the input of the user. (Built with Unity and PyTorch).
-    
-    This project is supposed to be my engineering thesis → thus no repository
-    
+* **Interactive Delivery Bot** → Reinforcement learning–based project (Unity + PyTorch) where an agent learns to move blocks to a deposit location based the demanded items.
 
-## Skills
+* **Gradient PG Projects** → Applied AI research in **LLMs, computer vision, and NLP**, collaborating with teams and industry partners.
 
-- Programming Languages:
-  - Python (PyTorch, Keras),
-  - Javascript (Ts, React and Node.js technologies)
-  - C# (.NET)
-  - C/C++
-- ML Libraries/Frameworks: TensorFlow, PyTorch, Keras, OpenAI Gym
-- Areas of Expertise: Deep Learning, Reinforcement Learning, Computer Vision, (a bit of) NLP
+## ⚡ Skills
 
-## 📫 How to contact me:
+* **Programming**: Python (PyTorch, TensorFlow, Keras), JavaScript/TypeScript (React, Node.js), C# (.NET/Unity), C/C++
+* **AI/ML**: Deep Learning, Computer Vision, Natural Language Processing, Reinforcement Learning, LLMs
+* **Other**: Data pipelines, distributed systems (Spark, Hadoop), full-stack AI apps, GIS/Cesium simulations
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/pawel-blicharz-dev/) or email me at pawel.blicharz.dev@gmail.com
+## 📫 How to contact me
+
+* [LinkedIn](https://www.linkedin.com/in/pawel-blicharz-dev/)
+* Email: [pawel.blicharz.dev@gmail.com](mailto:pawel.blicharz.dev@gmail.com)
